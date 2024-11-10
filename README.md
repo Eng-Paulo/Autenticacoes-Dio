@@ -1,5 +1,5 @@
 # Autenticações-Dio
-Repositório de testes de autenticações.
+Repositório de testes de autenticações - Curso
 
 1.
 
